@@ -2,6 +2,5 @@
 
 # Basic Install
 
-## Composer install
-
-## npm install
+1. Composer install
+2. npm install
